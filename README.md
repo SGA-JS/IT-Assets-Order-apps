@@ -21,7 +21,7 @@ with Powerautomate for manager approval.
 ![image](https://github.com/SGA-JS/IT-Assets-Order-apps/assets/73696641/f9a17f35-6ae2-4623-8030-edab7c0a62a1)
 
 
-# App first screen
+# App screen
 
 - It has 4 Categories - Laptops, Keyboards, Monitor and Mice
 ![image](https://github.com/SGA-JS/IT-Assets-Order-apps/assets/73696641/9528d8f2-9ae4-4ad6-9fb2-9a28c59319ec)
