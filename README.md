@@ -32,7 +32,7 @@ with Powerautomate for manager approval.
 
 - when select an Item > will go to Request form screen
   ![image](https://github.com/SGA-JS/IT-Assets-Order-apps/assets/73696641/32279c75-05cf-43cd-a2c7-f3f75af9dd28)
-  -the button -"Request New Laptop" will be activated after you have filled in the form input
+  - the button -"Request New Laptop" will be activated after user have filled in all form input
 
 - Once the Item is submitted. It will automatically send email alert to the respctive manager for approval.
 - One the manager has approved the laptop request will send the email alert to IT and requester.
