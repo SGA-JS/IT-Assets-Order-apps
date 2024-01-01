@@ -1,7 +1,6 @@
 # Intro 
-The idea of project is to have a better user expeirence for empoloyees' laptop request approval process.
-as a traditional way, whenever an employee wants to order the laptop, he/she has to check the Laptop specs, pricing with IT/procurement team and get approval with Manager via email or fill in
-physical request form. To elimate this traditional way, Here I am going to build digital workspace for end-user.
+The purpose of this project is to improve the user experience for employees who need to request laptops. Currently, employees have to contact the IT/procurement team to check the laptop specifications and prices, and then get approval from their manager via email or a physical request form. This is a time-consuming and inefficient process. To streamline this process, I am going to create a digital workspace for end-users, where they can easily select and request order laptops, and get approval from their managers online internally
+
 
 I built this project based on the existing Powerapps Template "Asset Checkout"
 ![image](https://github.com/SGA-JS/IT-Assets-Order-apps/assets/73696641/3b2cca6a-2a03-427c-932e-c2c32ef0f902)
